@@ -1,0 +1,14 @@
+{
+  "name": "IFX Marketing",
+  "short_name": "IFX Marketing",
+  "description": "Fintech performance marketing agency for forex brokers, algo trading firms, introducing brokers and prop firms.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "lang": "en",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
